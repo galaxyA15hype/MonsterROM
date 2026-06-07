@@ -18,7 +18,7 @@
 # MonsterROM configuration file for Exynos devices (qssi/qssi_64)
 
 # Galaxy S25 Ultra (One UI 8.5)
-SOURCE_CODENAME="pa3q"
+SOURCE_CODENAME="r11s"
 SOURCE_FIRMWARE="SM-S711B/EUX/350389910895757"
 SOURCE_EXTRA_FIRMWARES=()
 SOURCE_API_LEVEL=36.1
